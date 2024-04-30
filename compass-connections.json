@@ -1,0 +1,35 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "3328cf2d-7314-4ec9-bdae-8786949d23e2",
+      "favorite": {
+        "name": "codeswear"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://my_user_123@cluster0.iu1qnoe.mongodb.net/"
+      }
+    },
+    {
+      "id": "654744d3-0821-4a8e-a309-803407e9ed90",
+      "favorite": {
+        "name": "codesweare.com"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://127.0.0.1:27017/CodesWear"
+      }
+    },
+    {
+      "id": "fc2be165-e4e3-462b-b6d8-d7c902f5ab48",
+      "favorite": {
+        "name": "codeswear"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://127.0.0.1:27017/CodesWear"
+      }
+    }
+  ]
+}
